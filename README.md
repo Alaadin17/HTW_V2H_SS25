@@ -1,5 +1,5 @@
-# V2G_HTW_SS25
-This example demonstrates how to create a bev time series with Emobpy and integrate it into an energy system in Oemof.
+# HTW_V2H_SS25
+This project demonstrates how to create a bev time series with Emobpy and integrate it into an energy system in Oemof.
 
 ## Citation
 
