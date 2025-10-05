@@ -5,7 +5,7 @@ This project demonstrates how to create a bev time series with Emobpy and integr
 
 This project makes use of [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy)
 and [Oemof-solph](https://github.com/oemof/oemof-solph)
-If you use this project in scientific work, please cite these two Libs as well.
+If you use this project in scientific work, please cite this repo and these two Libs as well.
 
 
 ## Features
