@@ -17,9 +17,10 @@ If you use this project in scientific work, please cite this repo and these two 
 ```bash
 conda env create -f environment_emobpy.yml
 conda activate emobpy_py36
+```
 
-## Installation - Oemof
+## Installation - oemof
 ```bash
 conda env create -f environment_oemof.yml
 conda activate oemof_solve_py312
-
+```
