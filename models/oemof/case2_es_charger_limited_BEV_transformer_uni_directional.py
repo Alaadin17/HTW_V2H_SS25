@@ -231,7 +231,7 @@ class EnergySystemModel:
             inputs={b_bev: flows.Flow()},
             outputs={b_bev: flows.Flow(variable_costs=15)},
             nominal_storage_capacity=45,
-            min_storage_level=0.3,
+            min_storage_level=0.2,
             max_storage_level=0.95,
             initial_storage_level=0.95,
             fixed_losses_absolute=self.BEV_consumption * 4,
