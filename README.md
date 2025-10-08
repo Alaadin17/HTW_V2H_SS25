@@ -18,6 +18,7 @@ If you use this project in scientific work, please cite this repo and these two 
 conda env create -f environment_emobpy.yml
 conda activate emobpy_py36
 ```
+Use this to create your EV-Profile [emobpy-notebook](https://github.com/Alaadin17/HTW_V2H_SS25/blob/main/models/emobpy/notebooks/emobpy.ipynb)
 
 ## Installation - oemof
 ```bash
