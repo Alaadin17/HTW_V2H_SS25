@@ -11,10 +11,14 @@ If you use this project in scientific work, please cite this repo and these two 
 ## Features
 - Generation of mobility, consumption, and load time series  
 - Integration with energy system models using Oemof  
-- Configuration via YAML/CSV files  
-- Reproducible pipelines (virtual environments + requirements files)  
+- Reproducible pipelines (conda environments)  
 
-## Installation
+## Installation - Emobpy
 ```bash
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+conda env create -f environment_emobpy.yml
+conda activate emobpy_py36
+## Installation - Oemof
+```bash
+conda env create -f environment_oemof.yml
+conda activate oemof_solve_py312
+
